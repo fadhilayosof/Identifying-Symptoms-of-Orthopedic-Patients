@@ -1,4 +1,4 @@
-# Logistic_Regression_Project.
+#Identifying Symptoms of Orthopedic Patients.
 
 Let us Get Started!
 As you remember our task is to explore our Bank's Marketing campaign and create meaningful insights from the data
